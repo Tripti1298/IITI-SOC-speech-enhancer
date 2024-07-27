@@ -51,6 +51,5 @@ We denoised the audio using the trained model and saved the enhanced audio in th
 *You can clone this repository in Google Colab. And then run the cell blocks 
 *While writing the code we integrated it into several blocks/cells to make it easy for us to code. If you may face any error while running it try separating the code and run it in several different blocks. The link to our colab notebook will be provided herewith.
 
-https://colab.research.google.com/drive/1dQ89pkI0xUBFwlDfJ42DzA-TF2dCRuwN?usp=sharing#scrollTo=eOY5qi2mHprH
 
 THANK YOU
